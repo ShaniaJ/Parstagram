@@ -20,6 +20,7 @@
 		D045355F25F45D2B00A93CB1 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D045355E25F45D2B00A93CB1 /* LoginViewController.swift */; };
 		D045356425F45D3500A93CB1 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D045356325F45D3500A93CB1 /* FeedViewController.swift */; };
 		D045357825F47D3000A93CB1 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D045357725F47D3000A93CB1 /* CameraViewController.swift */; };
+		D0509538260559AD008EBD10 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0509537260559AD008EBD10 /* CommentCell.swift */; };
 		D09DF25D25F49100003883FB /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09DF25C25F49100003883FB /* PostCell.swift */; };
 /* End PBXBuildFile section */
 
@@ -65,6 +66,7 @@
 		D045355E25F45D2B00A93CB1 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		D045356325F45D3500A93CB1 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		D045357725F47D3000A93CB1 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		D0509537260559AD008EBD10 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		D09DF25C25F49100003883FB /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		E1068E8C84AE7A21F0E76E2C /* Pods-Parstagram-ParstagramUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram-ParstagramUITests.debug.xcconfig"; path = "Target Support Files/Pods-Parstagram-ParstagramUITests/Pods-Parstagram-ParstagramUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -145,6 +147,7 @@
 				D045356325F45D3500A93CB1 /* FeedViewController.swift */,
 				D045357725F47D3000A93CB1 /* CameraViewController.swift */,
 				D09DF25C25F49100003883FB /* PostCell.swift */,
+				D0509537260559AD008EBD10 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				D045356425F45D3500A93CB1 /* FeedViewController.swift in Sources */,
 				D00D47A825F4567B001CCF5C /* SceneDelegate.swift in Sources */,
 				D09DF25D25F49100003883FB /* PostCell.swift in Sources */,
+				D0509538260559AD008EBD10 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
